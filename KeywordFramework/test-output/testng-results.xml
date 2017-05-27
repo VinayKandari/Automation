@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="S1" duration-ms="21505" started-at="2017-05-21T19:34:52Z" finished-at="2017-05-21T19:35:14Z">
+    <groups>
+    </groups>
+    <test name="T1" duration-ms="21505" started-at="2017-05-21T19:34:52Z" finished-at="2017-05-21T19:35:14Z">
+      <class name="org.test.testcases.Test_001">
+        <test-method status="PASS" signature="LaunchDriver()[pri:0, instance:org.test.testcases.Test_001@192d43ce]" name="LaunchDriver" is-config="true" duration-ms="9493" started-at="2017-05-22T01:04:52Z" finished-at="2017-05-22T01:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchDriver -->
+        <test-method status="PASS" signature="TC_01()[pri:0, instance:org.test.testcases.Test_001@192d43ce]" name="TC_01" duration-ms="432" started-at="2017-05-22T01:05:02Z" finished-at="2017-05-22T01:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+      </class> <!-- org.test.testcases.Test_001 -->
+      <class name="org.test.testcases.Test_003">
+        <test-method status="PASS" signature="LaunchDriver()[pri:0, instance:org.test.testcases.Test_003@72057ecf]" name="LaunchDriver" is-config="true" duration-ms="11262" started-at="2017-05-22T01:05:02Z" finished-at="2017-05-22T01:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchDriver -->
+        <test-method status="PASS" signature="TC_03()[pri:0, instance:org.test.testcases.Test_003@72057ecf]" name="TC_03" duration-ms="310" started-at="2017-05-22T01:05:13Z" finished-at="2017-05-22T01:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+      </class> <!-- org.test.testcases.Test_003 -->
+    </test> <!-- T1 -->
+  </suite> <!-- S1 -->
+</testng-results>
